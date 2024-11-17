@@ -1,0 +1,24 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^7.1.0",
+    "inquirer": "8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninth9one/m7node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ninth9one/m7node/issues"
+  },
+  "homepage": "https://github.com/ninth9one/m7node#readme"
+}
